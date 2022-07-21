@@ -1,0 +1,7 @@
+sider_cui2name.pkl
+{'CID100000085':carnitine,'CID100000119':gamma-aminobutyric,...}
+dictionary about 1430 CIDs and their corresponding drug name.
+
+pt_name2cui.pkl
+{'Anaemia folate deficiency':C1842870, 'Anaemia vitamin B12 deficiency':C1142148,...}
+dictionary about 23701 MedDRA PT terms and their corresponding disease name.

@@ -1,0 +1,4 @@
+[data]
+- se_ind_merge_table : side effects (+1 label) and indications (-1 label)
+- do_499x499_sim.csv : 499 diseases similarity matrix
+- dtinet_646x646_sim.csv : 646 drugs similarity matrix
