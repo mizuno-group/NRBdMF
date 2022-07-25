@@ -12,10 +12,9 @@ We confirmed that this model works in the following environments.
 ## Get Started
 - Installation
 ```
-git clone 
+git clone https://github.com/mizuno-group/NRBdMF.git
 ```
-- Basic Usage
-See NRBdMF/Sample_Codes
+- Basic Usage: See NRBdMF/Sample_Codes
 
 ## Authors
 Iori Azuma and Tadahaya Mizuno
