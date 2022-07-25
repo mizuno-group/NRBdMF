@@ -1,6 +1,6 @@
 ## Prepare multilabel data from SIDER
 ```
-C:.
+/Data_Preparation
 │  merge_tables.py  # main module to create multilabel data
 │  README.md  # this scrips
 │  sider_rel_extraction_reflect_meddra.py  # module to extract drug effects from SIDER
