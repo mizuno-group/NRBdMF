@@ -58,3 +58,7 @@ Representative_Methods/methods includes 7 representative algorithms that are ric
 5. cmf (collective matrix factorization)
 6. tmf (triple matrix factorization)
 7. imc (inductive matrix facorization)
+
+### Sample Code
+***
+Described in 1_representative_methods_grid_search.ipynb in detail.
