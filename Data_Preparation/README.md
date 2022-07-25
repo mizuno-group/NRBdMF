@@ -32,3 +32,7 @@
 2. Merge above dual nature of drug effects as positive and negative labels with `merge_tables.py`
    - positive labels : known side effects <br>
    - negative labels : know indications
+
+### Sample Code
+***
+Described in NRBdMF/Sample_Codes/2_multilabel_data_preparation.ipynb in detail.
