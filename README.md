@@ -11,7 +11,11 @@ We confirmed that this model works in the following environments.
 
 ## Get Started
 - Installation
+```
+git clone 
+```
 - Basic Usage
+See NRBdMF/Sample_Codes
 
 ## Authors
 Iori Azuma and Tadahaya Mizuno
