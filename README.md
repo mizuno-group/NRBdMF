@@ -20,11 +20,11 @@ git clone https://github.com/mizuno-group/NRBdMF.git
 Iori Azuma and Tadahaya Mizuno
 
 ## Contact
-If you would like to report any bugs about this package, don't hesitate to create an issue on github here, or email us:
+If you have any questions or comments, please feel free to create an issue on github here, or email us:
 
-- phazuma19980625@gmail.com
-- tadahaya@gmail.com
-- tadahaya@mol.f.u-tokyo.ac.jp
-- tadahaya@g.ecc.u-tokyo.ac.jp
+- phazuma19980625[at]gmail.com
+- tadahaya[at]gmail.com
+- tadahaya[at]mol.f.u-tokyo.ac.jp
+- tadahaya[at]g.ecc.u-tokyo.ac.jp
 
 ## References
