@@ -30,4 +30,5 @@ If you have any questions or comments, please feel free to create an issue on gi
 - tadahaya[at]g.ecc.u-tokyo.ac.jp
 
 ## References
-- J. Chem. Inf. Model. 2023, 63, 2, 474–483. doi: 10.1021/acs.jcim.2c01210
+- J. Chem. Inf. Model. 2023, 63, 2, 474–483. 
+- doi: 10.1021/acs.jcim.2c01210
