@@ -1,6 +1,7 @@
-# NRBdMF
-NRBdMF (Neighborhood Regularized Bidirectional Matrix Factorization) predicts drug effects by regarding drug positive and negative effects as bidirectionality.
+# NRBdMF: Neighborhood Regularized Bidirectional Matrix Factorization
 ![graphical_abstract](https://user-images.githubusercontent.com/92911852/215065079-b4fc06f7-8a30-4085-ae0a-ddc4a27778fb.png)
+NRBdMFpredicts drug effects by regarding drug positive and negative effects as bidirectionality.
+
 ## Dependency
 We confirmed that this model works in the following environments.
 - python      3.8.10
