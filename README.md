@@ -27,7 +27,6 @@ If you have any questions or comments, please feel free to create an issue on gi
 - phazuma19980625[at]gmail.com
 - tadahaya[at]gmail.com
 - tadahaya[at]mol.f.u-tokyo.ac.jp
-- tadahaya[at]g.ecc.u-tokyo.ac.jp
 
 ## References
 - J. Chem. Inf. Model. 2023, 63, 2, 474–483. 
