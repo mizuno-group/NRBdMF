@@ -2,8 +2,12 @@
 ![graphical_abstract](https://user-images.githubusercontent.com/92911852/215065672-ee3a3f68-398f-4b0f-bc53-9c2de698c407.png)
 
 ## Publication
+- [peer-reviewed publication](https://pubs.acs.org/doi/10.1021/acs.jcim.2c01210)  
 - [preprint](https://arxiv.org/abs/2208.04312)  
-- [peer-reviewed publication](https://pubmed.ncbi.nlm.nih.gov/36635231/)  
+
+## Citation
+Please cite the following if you use any contents of this repository.  
+- DOI: 10.1021/acs.jcim.2c01210  
 
 ## Dependency
 We confirmed that this model works in the following environments.
